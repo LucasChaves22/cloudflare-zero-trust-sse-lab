@@ -49,10 +49,8 @@ A plataforma foi configurada para validar os três pilares fundamentais do **SSE
 
 ## 📸 Evidências de Configuração
 
-*(Adicione aqui os prints das telas do seu painel Cloudflare)*
-
 1. **Políticas de Firewall DNS / HTTP ativas:**
-   `![Política SWG de Bloqueio](Prints/01-swg-dns-policies.png)`
+   `![Política SWG de Bloqueio](Lab CloudFlare SSE/01-swg-dns-policies.png)`
 
 2. **Log de Eventos e Bloqueio de Tráfego:**
    `![Logs de Auditoria](./prints/audit-logs.png)`
